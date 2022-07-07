@@ -1,3 +1,46 @@
-.button-position {
+.flood-people {
+  background-image: url(images/donation12.png);
+  background-position: center;
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 0px;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+p {
+  text-align: center;
+  color: rgba(250, 244, 244, 0.863);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  font-size: 20px;
+}
+
+.button {
+  border: none;
+  background-color: rgb(230, 23, 23);
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 6px 6px;
+  cursor: pointer;
+
+}
+
+.donation-now {
+  background-color: aliceblue;
+  color: black;
   text-align: center;
 }
